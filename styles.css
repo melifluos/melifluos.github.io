@@ -2,11 +2,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
-header {
+/* header {
   background-color: #f8f9fa;
   padding: 20px;
   text-align: center;
-}
+} */
 
 header.flex-container {
   display: flex;
