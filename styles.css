@@ -8,6 +8,12 @@ header {
   text-align: center;
 }
 
+header.flex-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
 nav ul {
   list-style-type: none;
   padding: 0;
