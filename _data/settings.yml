@@ -16,11 +16,12 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/https://twitter.com/DrBPChamberlain'}
+- {icon: 'twitter', link:    'https://twitter.com/DrBPChamberlain'}
 # - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 # - {icon: 'instagram', link:  'https://instagram.com/paululele'}
 - {icon: 'envelope', link:   'mailto:benjamin.chamberlain@gmail.com'}
 - {icon: 'graduation-cap', link:   'https://scholar.google.co.uk/citations?user=Tr8LSOEAAAAJ&hl=en'}
+- {icon: 'linkedin', link:   'https://www.linkedin.com/in/benjaminchamberlain/'}
 - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
