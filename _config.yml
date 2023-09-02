@@ -13,6 +13,12 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "Dr Benjamin Paul Chamberlain"
 description:	       "The go to place to find Dr Ben stuff"
 author:              "Ben Chamberlain"
+url: "https://melifluos.github.io"
+
+social_links:
+  twitter: DrBPChamberlain
+  github: melifluos
+  linkedin: benjaminchamberlain
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
