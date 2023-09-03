@@ -9,8 +9,8 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'research',  url: 'research'}
 - {name: 'CV', url: 'CV'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'talks',       url: 'talks'}
+# - {name: 'Documentation',      url: 'documentation'}
 # - {name: 'About',              url: 'about'}
 # - {name: 'Contact',            url: 'contact'}
 
